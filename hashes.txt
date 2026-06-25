@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Je T'attendrai Toujours
+
+This log tracks the cryptographic history and versioning for the song **Je T'attendrai Toujours** (je-tattendrai-toujours).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:09:39.093726 | `v1` | `03f2f3eec3214bff546c1fb6dcb607340ebf68876a5e06493cd3a89b9fc6201e` | `8d352e17c287e84cf913c3a356a09a46afcff6da96f93c45c39c2abc1e74457b` | `2026-06-26_je-tattendrai-toujours-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

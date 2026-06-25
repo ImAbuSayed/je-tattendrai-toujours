@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-tattendrai-toujours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Je T'attendrai Toujours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-tattendrai-toujours/) |
+| **Get License** | [Secure Licensing Rights for Je T'attendrai Toujours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-tattendrai-toujours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `03f2f3eec3214bff546c1fb6dcb607340ebf68876a5e06493cd3a89b9fc6201e` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

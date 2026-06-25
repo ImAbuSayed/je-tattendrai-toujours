@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-tattendrai-toujours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Je T'attendrai Toujours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-tattendrai-toujours/) |
+| **Get License** | [Get License For Je T'attendrai Toujours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-tattendrai-toujours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Je t'attendrai toujours sous les néons de la ville
+> Ton regard me rend fou, bébé, mon cœur perd le fil
+> Dans cette ride nocturne, c'est ton parfum qui m'enivre
+> Just you and me ce soir, t'es la seule qui me fait vivre
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
